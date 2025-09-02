@@ -877,7 +877,7 @@ Rank,Company,Headquarters,Industry,Sales ($B),Profit ($B),Assets ($B),Market Val
 876,CMS Energy,United States,Utilities,7.79,1.02,36.3,21.59
 877,CK Asset Holdings,Hong Kong,Construction,6.04,1.75,64.6,14.23
 878,Steel Dynamics,United States,Materials,17.22,1.17,15.93,19.09
-879,Semiconductor Manufacturing International,China,Semiconductors,7.99,,48.42,46.38
+879,Semiconductor Manufacturing International,China,Semiconductors,7.99,2.4371011511511513,48.42,46.38
 879,Westinghouse Air Brake Technologies,United States,Capital Goods,10.5,1.11,19.1,31.49
 881,Xiamen C&D,China,Transportation,96.97,0.4093,105.2,4.28
 882,Tata Steel,India,Materials,26.41,0.3264,33.51,20.27
@@ -1093,7 +1093,7 @@ Rank,Company,Headquarters,Industry,Sales ($B),Profit ($B),Assets ($B),Market Val
 1092,Shenzhen Mindray Bio-Medical Electronics,China,Health Care Equipment & Services,5.09,1.72,8.21,36.06
 1093,Alstom,France,Capital Goods,19.46,-0.2742,37.88,10.88
 1094,Edwards Lifesciences,United States,Health Care Equipment & Services,5.54,1.47,13.05,44.54
-1095,Quinenco,Chile,Banking,10.63,,66.99,6.91
+1095,Quinenco,Chile,Banking,10.63,2.4371011511511513,66.99,6.91
 1096,Quest Diagnostics,United States,Health Care Equipment & Services,10.16,0.892,15.8,19.4
 1097,Shanxi Xinghuacun Fen Wine Factory,China,"Food, Drink & Tobacco",4.2,1.71,7.09,35.37
 1098,Greentown China Holdings,China,Construction,22.11,0.2216,69.57,3.38
